@@ -2,10 +2,10 @@ import 'package:sixam_mart_delivery/data/model/response/language_model.dart';
 import 'package:sixam_mart_delivery/util/images.dart';
 
 class AppConstants {
-  static const String APP_NAME = '6amMart Delivery';
+  static const String APP_NAME = 'Amiriluxe Partner';
   static const double APP_VERSION = 1.8;
 
-  static const String BASE_URL = 'https://6ammart-admin.6amtech.com';
+  static const String BASE_URL = 'https://amiriluxe.com';
   static const String CONFIG_URI = '/api/v1/config';
   static const String FORGET_PASSWORD_URI = '/api/v1/auth/delivery-man/forgot-password';
   static const String VERIFY_TOKEN_URI = '/api/v1/auth/delivery-man/verify-token';

@@ -29,12 +29,12 @@
 
     <application
         tools:replace="android:label"
-        android:label="6amMart Delivery"
+        android:label="Amiriluxe Partner"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCaCSJ0BZItSyXqBv8vpD1N4WBffJeKhLQ"/>
+            android:value="AIzaSyAHx6w_danHVU6bqEJchaJeKCQoAlJ61DA"/>
 
         <activity
             android:name=".MainActivity"
